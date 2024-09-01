@@ -146,7 +146,7 @@ data.pages.flatMap((page) => page) ?? initialPosts ->  meaning of ?? operator is
 
 Difference between Bitwise OR | and Logical OR ||. Why we use | in typscript for multiple types
 
-ternary operator
+ternary operator ?:
 
 ?, ??, &&, ...spread operator, ?. optional chaining, !.
 what is use of "?" session?.user and "!", "&&", "??", "|", "||"

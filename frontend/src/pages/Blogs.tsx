@@ -1,4 +1,4 @@
-import { FC } from "react";
+import { FC, useEffect, useState } from "react";
 import BlogCard from "../components/BlogCard";
 import Navbar from "../components/Navbar";
 import { useBlogs } from "../hooks";
